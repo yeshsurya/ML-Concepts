@@ -1,0 +1,3 @@
+A central problem in machine learning is how to make an algorithm that will perform well not just on the training data, 
+but also on new inputs. Many strategies used in machine learning are explicitly designed to reduce the test error, 
+possibily at the expense of increased training error. These strategies are known collectively as regularization.
